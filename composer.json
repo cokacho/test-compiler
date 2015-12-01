@@ -4,5 +4,7 @@
     "psr-0" : {
       "lib" : "src"
     }
-  }
+  },
+  "version": "1.0.0",
+  "description": "The Custom Libraries"
 }
