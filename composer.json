@@ -1,17 +1,8 @@
 {
-  "repositories": [
-    {
-      "name": "cokacho/testCompiler",
-      "type": "package",
-      "package": {
-        "name": "cokacho/testCompiler",
-        "version": "master",
-        "source": {
-          "url": "git://github.com/cokacho/testCompiler.git",
-          "type": "git",
-          "reference": "master"
-        }
-      }
+  "name": "cokacho/testCompiler",
+  "autoload": {
+    "psr-0" : {
+      "Weaverryan\\DangerZone" : "src"
     }
-  ]
+  }
 }
