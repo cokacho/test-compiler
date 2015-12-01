@@ -2,7 +2,7 @@
   "name": "cokacho/testCompiler",
   "autoload": {
     "psr-0" : {
-      "Weaverryan\\DangerZone" : "src"
+      "lib" : "src"
     }
   }
 }
