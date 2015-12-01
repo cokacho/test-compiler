@@ -1,5 +1,5 @@
 {
-  "name": "cokacho/testCompiler",
+  "name": "cokacho/test-compiler",
   "autoload": {
     "psr-0" : {
       "lib" : "src"
