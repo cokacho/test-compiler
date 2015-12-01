@@ -1,6 +1,7 @@
 {
   "repositories": [
     {
+      "name": "cokacho/testCompiler",
       "type": "package",
       "package": {
         "name": "cokacho/testCompiler",
